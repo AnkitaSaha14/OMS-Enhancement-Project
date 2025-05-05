@@ -22,6 +22,7 @@ Artifact
 1. BRD (Business Requirements Document)	& FRD (Functional Requirements Document)- MS Word
 2. Process Flow Diagram & Use Case Diagram - Draw.io
 3. User Stories & Backlog and Sprint Planning & Tracking	- Jira Scrum Board
+   
 
 Key Skills & Tools Used
 Agile & Scrum methodology
@@ -32,7 +33,10 @@ Stakeholder requirement analysis
 Use case identification
 
 Outcome
+
 ~ Reduced manual errors by automating courier allocation via API.
+
 ~ Improved customer satisfaction through real-time order visibility.
+
 ~ Enhanced internal coordination and order processing efficiency.
 
