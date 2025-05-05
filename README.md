@@ -16,12 +16,12 @@ Objectives
 Deliverables
 
 Artifact	                                Tool Used
-BRD (Business Requirements Document)	    MS Word
-FRD (Functional Requirements Document)	  MS Word
-Process Flow Diagram	                    Draw.io
-Use Case Diagram	                        Draw.io
-User Stories & Backlog	                  Jira
-Sprint Planning & Tracking	              Jira Scrum Board
+-BRD (Business Requirements Document)	    MS Word
+-FRD (Functional Requirements Document)	  MS Word
+-Process Flow Diagram	                    Draw.io
+-Use Case Diagram	                        Draw.io
+-User Stories & Backlog	                  Jira
+-Sprint Planning & Tracking	              Jira Scrum Board
 
 Key Skills & Tools Used
 Agile & Scrum methodology
