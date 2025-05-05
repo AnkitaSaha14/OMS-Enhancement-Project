@@ -25,12 +25,17 @@ Artifact
    
 
 Key Skills & Tools Used
-Agile & Scrum methodology
-JIRA (Backlog, Epics, Sprint)
-Draw.io (Process Flow, Use Case Diagram)
-Word (BRD/FRD)
-Stakeholder requirement analysis
-Use case identification
+- Agile & Scrum methodology
+
+- JIRA (Backlog, Epics, Sprint)
+  
+- Draw.io (Process Flow, Use Case Diagram)
+  
+- Word (BRD/FRD)
+  
+- Stakeholder requirement analysis
+  
+- Use case identification
 
 Outcome
 
