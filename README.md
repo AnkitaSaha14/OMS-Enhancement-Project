@@ -5,13 +5,11 @@ Business Analyst case study for e-commerce OMS automation
 Enhanced the Order Management System (OMS) for an e-commerce platform to automate courier assignment and reduce order-to-delivery delays, based on customer feedback and internal efficiency gaps.
 
 Business Problem
-The order-to-delivery cycle was slow and inconsistent.
 
-Manual courier assignment led to unnecessary delays and human errors.
-
-Lack of centralized tracking for order status and fulfillment.
-
-Excess load on the chat support for order updates/delays.
+>> The order-to-delivery cycle was slow and inconsistent.
+>> Manual courier assignment led to unnecessary delays and human errors.
+>> Lack of centralized tracking for order status and fulfillment.
+>> Excess load on the chat support for order updates/delays.
 
 Objectives
 1. Automate courier assignment based on location and availability.
